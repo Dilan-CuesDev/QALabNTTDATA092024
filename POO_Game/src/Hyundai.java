@@ -1,4 +1,4 @@
-package PACKAGE_NAME;
-
 public class Hyundai {
+    // Clase creada por Dilan Cuellar
+
 }
